@@ -1,7 +1,7 @@
 # User Authentication and Social Feed
 
 ## Project Overview
-EMIGO is a web-based application that provides user authentication (sign-up and login) and a basic social feed where users can view posts. The project includes HTML, CSS, JavaScript for front-end validation, and PHP with MySQL for backend authentication.
+It is a web-based application that provides user authentication (sign-up and login) and a basic social feed where users can view posts. The project includes HTML, CSS, JavaScript for front-end validation, and PHP with MySQL for backend authentication.
 
 ## Features
 - User Registration
@@ -18,7 +18,6 @@ EMIGO is a web-based application that provides user authentication (sign-up and 
 
 ## File Structure
 ```
-EMIGO/
 │── index.html         # Login page
 │── register.html      # Registration page
 │── home.php           # User home feed page
@@ -54,6 +53,6 @@ EMIGO/
 - Implement profile page for users
 
 ## Author
-- Your Name
-- Contact: your.email@example.com
+- Nirajan Chaudhary
+- email= nirajanchaudhary624@gmail.com
 
