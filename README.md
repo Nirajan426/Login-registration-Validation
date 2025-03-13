@@ -54,5 +54,5 @@ It is a web-based application that provides user authentication (sign-up and log
 
 ## Author
 - Nirajan Chaudhary
-- email= nirajanchaudhary624@gmail.com
+- Email= nirajanchaudhary624@gmail.com
 
